@@ -27,4 +27,4 @@ Você pode interagir diretamente com a POC do agente usando o link: [Testar agen
 
 
 ## Vídeo de demonstração
-![Exemplo do chat](POC-Agente-Reembolsos-GenAI-iFood.mp4)
+![Exemplo do chat](POC-Agente-Reembolsos-GenAI-iFood.gif)
