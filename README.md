@@ -25,6 +25,11 @@ Você pode interagir diretamente com a POC do agente usando o link: [Testar agen
   - “O cliente quer alterar o endereço após envio do pedido. Ele pode receber reembolso?”
   - “O cliente quer trocar o produto por outro após entrega, porque não gostou do sabor. Isso gera reembolso?”
 
+### Prompt usado no Orchestrate
+
+Abaixo, o prompt configurado no Orchestrate que orienta o agente a consultar a base de conhecimento e a usar fallback seguro:
+
+![Prompt Orchestrate](prompt-orchestrate.png)
 
 ## Vídeo de demonstração
 ![Exemplo do chat](POC-Agente-Reembolsos-GenAI-iFood.gif)
